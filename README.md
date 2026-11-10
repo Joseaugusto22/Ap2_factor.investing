@@ -36,7 +36,7 @@ A estratégia utiliza a metodologia buy and hold, sem rebalanceamento durante o 
 O programa apresenta os rankings dos fatores, a composição da carteira, os indicadores de desempenho e o gráfico comparativo com o Ibovespa e o CDI.
 
 ## Integrantes
-Preencher com os nomes dos integrantes do grupo.
+Frederico Garcia, José Augusto, Lucas Caldo, Ricardo Arese
 
 ## Instituição
 IBMEC
